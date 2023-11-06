@@ -80,3 +80,17 @@ Section: Tweaks
 Filename: ./debs/com.antranhook13.deb
 Size: 28700
 MD5sum: f9ec4ce8daa9aced84c443af56aaedcc
+
+
+Package: AnTranHookFull
+Name: AnTranHookFull
+Version: 1.0-226
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Tweaks for IOS
+Maintainer: An Tran
+Author: An Tran
+Section: Tweaks
+Filename: ./debs/com.antranhookfull.deb
+Size: 30874
+MD5sum: 6865096a3853336fbbfe81fadd31b74e

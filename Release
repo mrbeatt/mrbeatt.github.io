@@ -52,3 +52,12 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Autolead
+
+Origin: AnTranHookFull
+Label: AnTranHookFull
+Suite: stable
+Version: 1.0-226
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Autolead
