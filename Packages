@@ -1,6 +1,6 @@
-Package: Autolead
-Name: Autolead
-Version: 1.5
+Package: Autolead13
+Name: Autolead13
+Version: 0.9
 Section: Tweaks
 Architecture: iphoneos-arm
 Description: Tweaks for IOS
@@ -41,6 +41,19 @@ MD5sum: 24c1bdd4591823e8b23cbdac0a8fe570
 
 
 
+Package: Autolead12
+Name: Autolead12
+Version: 1.0-22
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Tweaks for IOS
+Maintainer: An Tran
+Author: An Tran
+Section: Tweaks
+Filename: ./debs/com.antranautolead12.deb
+Size: 450480
+MD5sum: 25b1e8acd0d38f742a653af8db766c37
+
 Package: AnTranHookIOS12
 Name: AnTranHookIOS12
 Version: 1.0-192
@@ -50,7 +63,6 @@ Description: Tweaks for IOS
 Maintainer: An Tran
 Author: An Tran
 Section: Tweaks
-Depends: com.ryleyangus.libertylite
 Filename: ./debs/com.antranhook12.deb
 Size: 15256
 MD5sum: fa4b9e56a1f184e7e9b8ee792e892daa
@@ -64,7 +76,6 @@ Description: Tweaks for IOS
 Maintainer: An Tran
 Author: An Tran
 Section: Tweaks
-Depends: com.ryleyangus.libertylite
 Filename: ./debs/com.antranhook13.deb
 Size: 28700
 MD5sum: f9ec4ce8daa9aced84c443af56aaedcc
@@ -79,7 +90,6 @@ Description: Tweaks for IOS
 Maintainer: An Tran
 Author: An Tran
 Section: Tweaks
-Depends: com.ryleyangus.libertylite
 Filename: ./debs/com.antranhookfull.deb
 Size: 30874
 MD5sum: 6865096a3853336fbbfe81fadd31b74e
@@ -94,7 +104,6 @@ Description: Tweaks for IOS
 Maintainer: An Tran
 Author: An Tran
 Section: Tweaks
-Depends: com.ryleyangus.libertylite
 Filename: ./debs/com.AnTranHookFull13.deb
 Size: 27100
 MD5sum: e09575f17ec3686230e53b4eebbf80b3
