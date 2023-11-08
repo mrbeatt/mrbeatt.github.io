@@ -1,6 +1,6 @@
-Package: Autolead13
-Name: Autolead13
-Version: 0.9
+Package: Autolead
+Name: Autolead
+Version: 1.5
 Section: Tweaks
 Architecture: iphoneos-arm
 Description: Tweaks for IOS
@@ -39,20 +39,6 @@ Filename: ./debs/com.12act.deb
 Size: 2294
 MD5sum: 24c1bdd4591823e8b23cbdac0a8fe570
 
-
-
-Package: Autolead12
-Name: Autolead12
-Version: 1.0-22
-Section: Tweaks
-Architecture: iphoneos-arm
-Description: Tweaks for IOS
-Maintainer: An Tran
-Author: An Tran
-Section: Tweaks
-Filename: ./debs/com.antranautolead12.deb
-Size: 450480
-MD5sum: 25b1e8acd0d38f742a653af8db766c37
 
 
 Package: AnTranHookIOS12
