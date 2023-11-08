@@ -54,14 +54,6 @@ Architectures: iphoneos-arm
 Components: main
 Description: Autolead
 
-Origin: LibertyLite
-Label: LibertyLite
-Suite: stable
-Version: 1.0-1
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Autolead
 
 Origin: AnTranHookFullIOS13
 Label: AnTranHookFullIOS13

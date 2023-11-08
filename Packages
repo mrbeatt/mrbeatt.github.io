@@ -84,18 +84,6 @@ Filename: ./debs/com.antranhookfull.deb
 Size: 30874
 MD5sum: 6865096a3853336fbbfe81fadd31b74e
 
-Package: LibertyLite
-Name: LibertyLite
-Version: 1.0-1
-Section: Tweaks
-Architecture: iphoneos-arm
-Description: Tweaks for IOS
-Maintainer: An Tran
-Author: An Tran
-Section: Tweaks
-Filename: ./debs/com.ryleyangus.libertylite.deb
-Size: 53602
-MD5sum: d65967ac723b2bce9c191a3d991d54c1
 
 Package: AnTranHookFullIOS13
 Name: AnTranHookFullIOS13
