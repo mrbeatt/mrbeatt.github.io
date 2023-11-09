@@ -1,15 +1,15 @@
-Package: Autolead
-Name: Autolead
-Version: 1.3
+Package: AutoleadHelper
+Name: AutoleadHelper
+Version: 1.0-51
 Section: Tweaks
 Architecture: iphoneos-arm
 Description: Tweaks for IOS
 Maintainer: An Tran
 Author: An Tran
 Section: Tweaks
-Filename: ./debs/com.autolead13.deb
-Size: 48704
-MD5sum: ebb5f3261b8d56770a178e1baf126182
+Filename: ./debs/com.antranautoleadhelper.deb
+Size: 451450
+MD5sum: 6438abcc667bc9980ade55c457a722c1
 
 
 Package: IPA

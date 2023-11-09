@@ -1,11 +1,11 @@
-Origin: Autolead
-Label: Autolead
+Origin: AutoleadHelper
+Label: AutoleadHelper
 Suite: stable
-Version: 1.5
+Version: 1.0-51
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Autolead
+Description: AutoleadHelper
 
 
 Origin: IPA Support
